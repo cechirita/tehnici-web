@@ -39,7 +39,7 @@ n = (a+b)*s + s/(a+2b+c) + c.
 Care este titlul codului de stare corespunzător lui n?  
 Vizitați librăria de coduri de stare https://http.cat/n (nu uitați să înlocuiți n cu valoarea lui) și folosiți-vă abilitățile de detectivi web pentru a identifica personajul din imagine. Puncte bonus dacă aflați numele pisicii.
 
-6. Revenind la personajul descris pe pagina pe care tocmai ați testat-o. Identificați cel mai bun prieten al acestuia. Adăugați numele prietenului la începutul adresei [mudhalla.net](https://mudhalla.net). Ce se întâmplă dacă la adresa obținută adaugăm și prefixul 'www'? Folosiți testerul https://http.app/test pentru a compara rezultatele celor două cereri HTTP (cu/fără 'www').  
+6. Revenind la personajul descris pe pagina pe care tocmai ați testat-o. Identificați cel mai bun prieten al acestuia. Adăugați numele prietenului la începutul adresei [mudhalla.net](https://mudhalla.net). Ce se întâmplă dacă la adresa obținută adaugăm și prefixul 'www'? Folosiți testerul https://http.app/ pentru a compara rezultatele celor două cereri HTTP (cu/fără 'www').  
 Repetați testul și pentru adresa de la exercițiul 2. Cum explicați diferențele? Citiți mai multe aici: https://en.wikipedia.org/wiki/World_Wide_Web#WWW_prefix
 
 7. Folosiți tool-ul *Network* al browserului (firefox: More Tools/Web Developer Tools/Network; chrome: More Tools/Developer Tools/Network) pentru a identifica ce tipuri de metode HTTP sunt invocate la accesarea linkului de la exercițiul 2. 
